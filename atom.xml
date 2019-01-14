@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jiebin&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.xinjiuzhuang.com/"/>
+  <updated>2019-01-14T08:33:11.597Z</updated>
+  <id>https://blog.xinjiuzhuang.com/</id>
+  
+  <author>
+    <name>Jiebin Zheng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018 年终总结</title>
+    <link href="https://blog.xinjiuzhuang.com/blog/2018-summary/"/>
+    <id>https://blog.xinjiuzhuang.com/blog/2018-summary/</id>
+    <published>2019-01-10T07:50:04.000Z</published>
+    <updated>2019-01-14T08:33:11.597Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>小时候比成绩，长大后比工资，现在走个路都要比步数。放过我吧，我只想做个与世无争的垃圾，你们口中所说的未来、青春、梦想，我不要了，都不要了。<br>终于到了小时候羡慕的年纪，却没能成为小时候羡慕的人。</p></blockquote><p>2018,可能是我从小到大第一次经历过这么多事的一年。总结起来的可以说的是：车祸，离广回深，新公司。可能是之前经历的少了，处理事来还不够成熟，总之，忙碌，但却收获很多的一年。</p><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><p>离广回深——是我今年工作的转折点，上半年依旧是外包的几个项目，技术上提升不是很大，但是业务上提升了不少。下半年进入一家新媒体公司，技术上一微信开发为主，主要是一些微信引流为主的项目，在高并发，redis，数据优化等方面得到一些提升以及踩一些新的坑。<br>新公司相对来说比较悠闲，期间空闲时间弄了一个小程序——传图识字小工具，访问不多，日常用户100多200，在vue使用也开始入门，也接触了一个新的游戏引擎——layaair。总的来说，技术上相对接触比较多吧！</p><h3 id="消费"><a href="#消费" class="headerlink" title="消费"></a>消费</h3><p>记录在案的一些消费情况：</p><ul><li>两只苹果机，一只Android机</li><li>车票统计，2500+</li><li>小度在家，挺好用的一款产品</li></ul><h3 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h3><p>18年发生的事也比较多，所以只有去顺德听了刘瑞琦的演出会——温暖的房间，顺便在顺德逛了一圈。</p><h3 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h3><p>过来深圳后有了一些时间去跑步，打球，坚持依旧。</p><h3 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h3><p>新换了一个博客框架，杂乱的博客文章再一点点迁移过来吧</p><h3 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h3><ul><li>技术方面再提升一些</li><li>换一台新的电脑</li><li>住一个大一些的房子</li><li>持续关注现新的一些互联网热门项目</li><li>多认识一些有趣的朋友</li><li>去趟苏杭旅行下</li><li>吃胖一点（虽然有些难）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;小时候比成绩，长大后比工资，现在走个路都要比步数。放过我吧，我只想做个与世无争的垃圾，你们口中所说的未来、青春、梦想，我不要了，都不要了。&lt;br&gt;终于到了小时候羡慕的年纪，却没能成为小时候羡慕的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;201
+      
+    
+    </summary>
+    
+    
+      <category term="depth" scheme="https://blog.xinjiuzhuang.com/tags/depth/"/>
+    
+      <category term="exp" scheme="https://blog.xinjiuzhuang.com/tags/exp/"/>
+    
+  </entry>
+  
+</feed>
